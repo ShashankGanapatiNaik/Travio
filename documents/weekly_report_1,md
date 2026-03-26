@@ -1,0 +1,63 @@
+# Weekly Report — Week 1
+
+**Project:** Travio — Smart Journey Companion  
+**Report Date:** Saturday, 21 March 2026  
+**Submitted by:** Srujan L
+
+---
+
+## Team Contributions This Week
+
+| Name | SRN | Work Done |
+|------|-----|-----------|
+| Ullas | R23EF288 | Conducted direct customer interviews — approached potential users in person to understand their parking and food-on-trip pain points, recorded responses and key insights |
+| Srujan L | R23EF263 | Set up the Travio GitHub repository — created folder structure (`documents/`, `weekly_reports/`, `src/`), wrote the main README, added `.gitignore`, and pushed the initial commit |
+| Thejas M G | R23EF283 | Built the IA 1 presentation — structured the pitch deck covering the problem statement, customer personas, solution overview, AI features, competitive landscape, and business model |
+| Shreyas D | R23EF252 | Conducted direct customer interviews — spoke to potential users on-ground, documented conversations and pulled out key insights around parking frustration and food pre-ordering behaviour |
+| Shreyas B R | R23EF251 | Conducted direct customer interviews — covered a different user segment, gathered responses on willingness to pay, trust in P2P parking, and reaction to the GPS-triggered food ordering concept |
+| Shashank Ganapati Naik | R23EF245 | Created the Google Form for customer interaction — designed questions to validate the core problem, understand parking habits, food ordering behaviour on trips, and gauge interest in the product |
+
+---
+
+## Progress This Week
+
+### Completed
+- [x] GitHub repository created and structured with all required folders
+- [x] README written with project overview, repo structure, and team details
+- [x] Direct customer interviews conducted (3 members, multiple respondents)
+- [x] Google Form designed and ready for wider distribution
+- [x] IA 1 presentation draft built
+
+### In Progress
+- [ ] Compiling and writing up customer interview notes into `documents/customer_interviews.md`
+- [ ] Filling general public interaction document based on field findings
+- [ ] Product Statement document first draft
+- [ ] Product Requirements Specification first draft
+
+### Blocked / Issues
+- None at this stage
+
+---
+
+## Next Week Plan
+
+| Task | Owner | Due |
+|------|-------|-----|
+| Write up all 3 customer interview records with photos into the document | Ullas, Shreyas D, Shreyas B R | Friday 28 Mar |
+| Distribute Google Form and collect at least 20 responses | Shashank Ganapati Naik | Friday 28 Mar |
+| Complete Product Statement document (ICP, personas, problem, differentiation) | All | Friday 28 Mar |
+| First draft of Product Requirements Specification | Thejas M G, Srujan L | Friday 28 Mar |
+| Refine and rehearse IA 1 presentation | Thejas M G | Friday 28 Mar |
+| Begin PoC backend setup (FastAPI + PostgreSQL skeleton) | Srujan L | Friday 28 Mar |
+
+---
+
+## Notes From This Week
+
+The three members who went for direct customer interviews came back with something we didn't fully expect — almost everyone reacted more strongly to the GPS-triggered food ordering feature than to the parking marketplace. Most people had already tried pre-ordering food on Zomato and given up because of timing issues. The parking problem was known and accepted; the food timing problem felt more solvable and exciting to them.
+
+One insight that stood out: a respondent mentioned they skip meals during work drives because parking near restaurants is unpredictable. That connection — parking uncertainty directly causing skipped meals — wasn't something we had in our original problem framing. We're adding it to the product statement.
+
+Shashank's Google Form is ready to go out — once we get 20+ responses it'll give us quantitative backing for the qualitative stories from the direct interviews.
+
+Overall a strong first week. Foundation is set.
